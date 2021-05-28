@@ -503,6 +503,7 @@ header{
 .about-me{
     max-width: 1000px;
     margin: 0 auto;
+    
 
 }
 .about-me__img{
@@ -518,7 +519,7 @@ header{
             "subtitle img"
             "text img";
         grid-column-gap: 2em;
-        font-family: var(--ff-secondary);
+        font-family: var(--ff-primary);
     }
 
     .section__subtitle--about{
@@ -541,7 +542,7 @@ header{
 }
 
 
-/* My Work */
+/* Projects */
 
 .section__title--project{
     
